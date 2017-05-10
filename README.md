@@ -1,3 +1,5 @@
+[Heroku 101](https://github.com/ibigfoot/heroku-101) | [Heroku 201](https://github.com/ibigfoot/heroku-201) | [Heroku 301](https://github.com/ibigfoot/heroku-301) | [Heroku 401](https://github.com/ibigfoot/heroku-401)
+
 # Heroku 301
 
 In this exercise we are going to look at Kafka Producer and Consumer application as well as a web/worker pattern as a means for distributing load in Heroku via a traditional queue as well.

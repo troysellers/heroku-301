@@ -17,11 +17,11 @@ For the purpose of this exercise today we will use the multi-tennant kafka servi
 
 ## Create a Kafka Producer
 
-Check out this [codebase](https://github.com/bigfoot/heroku-301-generator) for how to get a kafka generator
+Check out this [codebase](https://github.com/ibigfoot/heroku-301-generator) for how to get a kafka generator
 
 ## Create a Kafka Consumer
 
-Check out this [codebase](https://github.com/bigfoot/heroku-301-client) for how to get a kafka client
+Check out this [codebase](https://github.com/ibigfoot/heroku-301-client) for how to get a kafka client
 
 ## Web / Worker Pattern
 
